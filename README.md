@@ -18,7 +18,7 @@ A simple age calculator made with **HTML, CSS, and JavaScript**. Enter your date
 
 ## 📸 Preview
 
-![Age-Calculator](preview.png)
+![Age-Calculator](preview.PNG)
 
 ## 🚀 What I Learned
 
